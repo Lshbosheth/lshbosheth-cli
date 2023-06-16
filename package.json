@@ -1,0 +1,33 @@
+{
+  "name": "lshbosheth-cli",
+  "version": "1.0.1",
+  "description": "lshbosheth-cli",
+  "main": "index.js",
+  "bin": {
+    "lshbosheth": "bin/lshbosheth.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "keywords": [
+    "cli",
+    "lshbosheth-cli",
+    "脚手架"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "chalk": "^4.0.0",
+    "commander": "^9.0.0",
+    "download-git-repo": "^3.0.2",
+    "figlet": "^1.5.2",
+    "fs-extra": "^10.0.1",
+    "inquirer": "^8.2.1",
+    "ora": "^5.0.0"
+  }
+}
