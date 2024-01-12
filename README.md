@@ -1,5 +1,5 @@
 # Lshbsoheth脚手架
-![](https://oss.lshbosheth.cn/img/favicon.jpg)
+![](http://oss.lshbosheth.cn/img/favicon.jpg)
 ## 项目简介
 
 本项目旨在提供一个便捷的脚手架工具，用于从Lshbsoheth代码仓库中快速下载所需的文件或项目。该脚手架设计简洁、易于使用，只需简单的命令操作，即可将指定的代码库内容下载到本地环境。
