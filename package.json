@@ -18,7 +18,10 @@
     "lshbosheth-cli",
     "脚手架"
   ],
-  "author": "",
+  "homepage": "https://lshbosheth.cn/",
+  "repository": "Lshbosheth/lshbosheth-cli",
+  "icon": "https://oss.lshbosheth.cn/img/favicon.jpg",
+  "author": "lshbosheth",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.26.1",
